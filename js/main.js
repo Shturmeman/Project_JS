@@ -78,7 +78,7 @@ main.getCookie()
 
 main.openLogPageButton.onclick = function (event) {
     const loginPage = document.createElement("login-page")
-    loginPage.setAttribute("markup", "../chank/login.html")
+    loginPage.setAttribute("markup", "chank/login.html")
     document.body.style.overflow = "hidden"
     this.appendChild(loginPage)
 }.bind(main)

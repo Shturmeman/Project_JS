@@ -508,8 +508,3 @@ register-page {
 proj-card {
     width: 33%;
 }
-
-.project_box>h3{
-    color: white;
-    line-height: 25px;
-}

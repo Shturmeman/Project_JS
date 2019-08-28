@@ -137,7 +137,6 @@ class AdminPage extends HTMLElement {
                         })
                     }).then(
                         response => response.json()).then(res => {
-                            debugger
                             usersWin.innerHTML = ""
                             productsWin.innerHTML = ""
                             ordersWin.innerHTML = ""

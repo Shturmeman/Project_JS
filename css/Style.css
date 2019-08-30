@@ -470,7 +470,8 @@ register-page {
 }
 
 #footer {
-    height: 200px;
+    padding-top: 30px;
+    padding-bottom: 30px;
     background-color: #141414;
     text-align: center;
     display: flex;

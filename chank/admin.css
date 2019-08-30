@@ -1,11 +1,4 @@
-/* .head{
-    height: 65px;
-    width: 100%;
-    background: #4cb1ca;
-    text-align: center;
-    color: whitesmoke;
-    padding-top: 25px;
-} */
+
 
 section{
     display: flex;
@@ -81,6 +74,11 @@ section{
     flex-direction: column;
     font-size: 18px;
     justify-content: space-evenly;
+}
+.orderinfo>span{
+    max-width: 300px;
+    overflow:hidden;
+    max-height: 75px;
 }
 .infoabout{
     margin: 20px;

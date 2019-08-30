@@ -41,7 +41,8 @@ class ProjectCard extends HTMLElement {
                 top: 50%;
                 left:50%;
                 transform:translate(-50%);
-                color:red;
+                color:white;
+                background : #00000085;
                 font-size:18px;
                 z-index:1;
                 text-align:center;
